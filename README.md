@@ -1,6 +1,10 @@
-** Install
-python -m pip install --upgrade pip
-python -m pip install --upgrade pymupdf
+# Highlight Keywords in PDF
 
-** Run 
+## Requirements
+- python -m pip install --upgrade pip
+- python -m pip install --upgrade pymupdf
+
+## Run 
+```sh
 python3 high-pdf.py
+```
